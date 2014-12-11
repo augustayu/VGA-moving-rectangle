@@ -1,0 +1,24 @@
+NET "clk" LOC = "V10";
+NET "rst" CLOCK_DEDICATED_ROUTE = FALSE; 
+
+NET "color[7]" LOC = "U7";
+NET "color[6]" LOC = "V7";
+NET "color[5]" LOC = "N7";
+NET "color[4]" LOC = "P8";
+NET "color[3]" LOC = "T6";
+NET "color[2]" LOC = "V6";
+NET "color[1]" LOC = "R7";
+NET "color[0]" LOC = "T7";
+
+NET "rect_color[7]" LOC = "T5";
+NET "rect_color[6]" LOC = "V8";
+NET "rect_color[5]" LOC = "U8";
+NET "rect_color[4]" LOC = "N8";
+NET "rect_color[3]" LOC = "M8";
+NET "rect_color[2]" LOC = "V9";
+NET "rect_color[1]" LOC = "T9";
+NET "rect_color[0]" LOC = "T10";
+
+
+NET "hsync" LOC = "N6";
+NET "vsync" LOC = "P7";
